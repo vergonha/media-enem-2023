@@ -17,7 +17,7 @@ $ python3 main.py
 ```
 
 
-### Base para o cálculo.
+## Base para o cálculo.
 
 Utiliza as seguintes referências:
 - Linguagens: Peso 2.
@@ -30,8 +30,18 @@ Tanto sua média quanto os pesos podem variar dependendo da instituição de ens
 
 Ex: Ciências da Computação geralmente valoriza mais Matemática.
 
+### Fórmula
+$$
+M_{x} = \frac{(X_{1} . P_{1}) + (X_{2} . P_{2}) +  ...  + (X_{n} . P_{n})}{\sum\limits_{i=1}^n P_{i}}
+$$
 
-### O Fim ❤️
+Onde:
+
+$M_{x}$ representa a média final.  
+$X$ representa cada nota final nas áreas de conhecimento cobrados no ENEM.  
+$P$ representa o peso específico de cada uma das áreas do conhecimento.  
+
+## O Fim ❤️
 
 Lembre-se, o ENEM é apenas uma prova, acontece todo ano e você sempre pode tentar novamente, não desanime se tirou uma nota que te decepcionou, ela não define quem você é e nem sua inteligência. Você é incrível, reconheça suas qualidades. Stay positive.
 
