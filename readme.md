@@ -10,8 +10,8 @@
 
 Certifique-se de ter o Python e o Git instalados em sua máquina.
 ```bash
-$ git clone https://github.com/vergonha/media_enem_2023.git
-$ cd media media_enem_2023
+$ git clone https://github.com/vergonha/media-enem-2023.git
+$ cd media media-enem-2023
 $ pip install -r requirements.txt
 $ python3 main.py
 ```
